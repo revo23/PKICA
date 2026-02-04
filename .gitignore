@@ -1,0 +1,7 @@
+# Private keys - NEVER commit to version control
+*.key.pem
+ca/private/
+server/*.key.pem
+
+# Encrypted key backups (if you create them)
+*.key.pem.enc
