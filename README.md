@@ -2,6 +2,8 @@
 
 Hands-on Public Key Infrastructure lab using OpenSSL.
 
+See [PKI Process Diagrams](docs/pki-diagram.md) for visual flowcharts.
+
 ## What's Included
 
 ```
